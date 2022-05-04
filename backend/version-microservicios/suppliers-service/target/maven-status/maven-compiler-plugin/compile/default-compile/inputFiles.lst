@@ -1,0 +1,7 @@
+/var/server/www/react-java/microservicios/suppliers-service/src/main/java/com/example/demo/services/ISupplierService.java
+/var/server/www/react-java/microservicios/suppliers-service/src/main/java/com/example/demo/ServletInitializer.java
+/var/server/www/react-java/microservicios/suppliers-service/src/main/java/com/example/demo/entities/Supplier.java
+/var/server/www/react-java/microservicios/suppliers-service/src/main/java/com/example/demo/config/CORSFilter.java
+/var/server/www/react-java/microservicios/suppliers-service/src/main/java/com/example/demo/GestionDeClientesApplication.java
+/var/server/www/react-java/microservicios/suppliers-service/src/main/java/com/example/demo/services/SupplierService.java
+/var/server/www/react-java/microservicios/suppliers-service/src/main/java/com/example/demo/repository/SupplierRepository.java

@@ -1,0 +1,7 @@
+{
+  "name": "proyecto-con-ionic-y-java",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

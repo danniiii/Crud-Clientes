@@ -1,0 +1,8 @@
+com/example/demo/repository/SupplierRepository.class
+com/example/demo/GestionDeClientesApplication.class
+com/example/demo/entities/Supplier.class
+com/example/demo/services/ISupplierService.class
+com/example/demo/services/SupplierService.class
+com/example/demo/ServletInitializer.class
+com/example/demo/controllers/SupplierController.class
+com/example/demo/config/CORSFilter.class
