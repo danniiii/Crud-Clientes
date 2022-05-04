@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>Gestion-de-clientes</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo project for Spring Boot. Customer service</description>
 	<properties>
 		<java.version>8</java.version>
 	</properties>
